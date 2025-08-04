@@ -3,8 +3,8 @@ layout: page
 title: Latex Slides
 description: A presentation to learn LaTeX made with marp
 img: assets/img/latex_slides.png
-importance: 3
-category: Open Source Contributions
+importance: 2
+category: Websites
 giscus_comments: false
 ---
 

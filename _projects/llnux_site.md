@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Louvain-li-Nux Website
-description: Contributed to the Louvain-li-Nux website
+description: The official Louvain-li-Nux website.
 img: assets/img/llnux.png
-importance: 2
-category: Open Source Contributions
+importance: 1
+category: Websites
 giscus_comments: false
 ---
 

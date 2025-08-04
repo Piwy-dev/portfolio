@@ -5,7 +5,7 @@ permalink: /projects/
 description: On this page you can find my projects, contributions and other things I do.
 nav: true
 nav_order: 3
-display_categories: [Open Source Contributions, Games, Discord bots]
+display_categories: [University projects, Games, Discord bots, Websites, Other]
 horizontal: false
 ---
 
