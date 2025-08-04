@@ -5,7 +5,7 @@ description: An android quiz app
 img: assets/img/byp_quiz.png
 importance: 1
 category: Games
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
